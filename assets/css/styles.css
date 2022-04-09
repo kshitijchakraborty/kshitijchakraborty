@@ -494,36 +494,36 @@ img{
 }
 
 .skills__html{
-    width: 90%;
+    width: 80%;
 }
 
 
 .skills__css{
-    width: 80%;
+    width: 70%;
 }
 
 .skills__js{
-    width: 90%;
+    width: 80%;
 }
 
 .skills__react{
-    width: 60%;
+    width: 90%;
 }
 
 .skills__nodejs{
-    width: 90%;
+    width: 80%;
 }
 
 .skills__python{
-    width: 90%;
+    width: 80%;
 }
 
 .skills__go{
-    width: 60%;
+    width: 90%;
 }
 
 .skills__cplusplus{
-    width: 40%;
+    width: 70%;
 }
 
 .skills__nlp{
@@ -547,7 +547,7 @@ img{
 }
 
 .skills__azure{
-    width: 90%;
+    width: 80%;
 }
 
 .skills__heroku{
@@ -555,23 +555,23 @@ img{
 }
 
 .skills__openstack{
-    width: 30%;
+    width: 70%;
 }
 
 .skills__jenkins{
-    width: 80%;
+    width: 70%;
 }
 
 .skills__docker{
-    width: 90%;
+    width: 60%;
 }
 
 .skills__kubernetes{
-    width: 40%;
+    width: 70%;
 }
 
 .skills__github{
-    width: 90%;
+    width: 80%;
 }
 
 .skills__threejs{
